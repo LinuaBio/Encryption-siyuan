@@ -1,0 +1,30 @@
+{
+  "name": "Encryption",
+  "author": "BioLinua",
+  "url": "https://github.com/LinuaBio/Encryption-siyuan",
+  "version": "0.0.1",
+  "displayName": {
+    "default": "Encryption",
+    "zh_CN": "加密插件"
+  },
+  "description": {
+    "default": "This is a Encryption sample",
+    "zh_CN": "这是一个加密插件"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "i18n": [
+    "en_US",
+    "zh_CN"
+  ],
+  "funding": {
+    "openCollective": "afdian",
+    "patreon": "",
+    "github": "",
+    "custom": [
+      "https://afdian.net/a/biolinua"
+    ]
+  }
+}
